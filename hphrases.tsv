@@ -1,0 +1,112 @@
+200	Unstable explosive
+201	Explosive: mass explosion hazard
+202	Explosive: severe projection hazard
+203	Explosive: fire, blast or projection hazard
+204	Fire or projection hazard
+205	May mass explode in fire
+206	Fire, blast or projection hazard: increased risk of explosion if desensitizing agent is reduced
+207	Fire or projection hazard; increased risk of explosion if desensitizing agent is reduced
+208	Fire hazard; increased risk of explosion if desensitizing agent is reduced
+209	Explosive
+210	Very explosive
+211	May be sensitive
+220	Extremely flammable gas
+221	Flammable gas
+222	Extremely flammable material
+223	Flammable material
+224	Extremely flammable liquid and vapour
+225	Highly flammable liquid and vapour
+226	Flammable liquid and vapour
+227	Combustible liquid
+228	Flammable solid
+230	May react explosively even in the absence of air
+231	May react explosively even in the absence of air at elevated pressure and/or temperature
+240	Heating may cause an explosion
+241	Heating may cause a fire or explosion
+242	Heating may cause a fire
+250	Catches fire spontaneously if exposed to air
+251	Self-heating: may catch fire
+252	Self-heating in large quantities: may catch fire
+260	In contact with water releases flammable gases which may ignite spontaneously
+261	In contact with water releases flammable gas
+270	May cause or intensify fire: oxidizer
+271	May cause fire or explosion: strong oxidizer
+272	May intensify fire: oxidizer
+280	Contains gas under pressure: may explode if heated
+281	Contains refrigerated gas: may cause cryogenic burns or injury
+282	Extremely flammable chemical under pressure: May explode if heated
+283	Flammable chemical under pressure: May explode if heated
+284	Chemical under pressure: May explode if heated
+290	May be corrosive to metals 
+	
+300	Fatal if swallowed
+300+310	Fatal if swallowed or in contact with skin
+300+310+330	Fatal if swallowed, in contact with skin or if inhaled
+300+330	Fatal if swallowed or if inhaled
+301	Toxic if swallowed
+301+311	Toxic if swallowed or in contact with skin
+301+311+331	Toxic if swallowed, in contact with skin or if inhaled
+301+331	Toxic if swallowed or if inhaled
+302	Harmful if swallowed
+302+312	Harmful if swallowed or in contact with skin
+302+312+332	Harmful if swallowed, in contact with skin or if inhaled
+302+332	Harmful if swallowed or inhaled
+303	May be harmful if swallowed
+303+313	May be harmful if swallowed or in contact with skin
+303+313+333	May be harmful if swallowed, in contact with skin or if inhaled
+303+333	May be harmful if swallowed or if inhaled
+304	May be fatal if swallowed and enters airways
+305	May be harmful if swallowed and enters airways
+310	Fatal in contact with skin
+310+330	Fatal in contact with skin or if inhaled
+311	Toxic in contact with skin
+311+331	Toxic in contact with skin or if inhaled
+312	Harmful in contact with skin
+312+332	Harmful in contact with skin or if inhaled
+313	May be harmful in contact with skin
+313+333	May be harmful in contact with skin or if inhaled
+314	Causes severe skin burns and eye damage
+315	Causes skin irritation
+315+320	Causes skin and eye irritation
+316	Causes mild skin irritation
+317	May cause an allergic skin reaction
+318	Causes serious eye damage
+319	Causes serious eye irritation
+320	Causes eye irritation
+330	Fatal if inhaled
+331	Toxic if inhaled
+332	Harmful if inhaled
+333	May be harmful if inhaled
+334	May cause allergy or asthma symptoms or breathing difficulties if inhaled
+335	May cause respiratory irritation
+336	May cause drowsiness or dizziness
+340	May cause genetic defects
+341	Suspected of causing genetic defects
+350	May cause cancer
+350i	May cause cancer by inhalation
+351	Suspected of causing cancer
+360	May damage fertility or the unborn child
+360D	May damage the unborn child
+360Df	May damage the unborn child. Suspected of damaging fertility.
+360F	May damage fertility
+360FD	May damage fertility. May damage the unborn child.
+360Fd	May damage fertility. Suspected of damaging the unborn child.
+361	Suspected of damaging fertility or the unborn child
+361d	Suspected of damaging the unborn child
+361f	Suspected of damaging fertility
+361fd	Suspected of damaging fertility. Suspected of damaging the unborn child.
+362	May cause harm to breast-fed children
+370	Causes damage to organs
+371	May cause damage to organs
+372	Causes damage to organs through prolonged or repeated exposure
+373	May cause damage to organs through prolonged or repeated exposure 
+	
+400	Very toxic to aquatic life
+401	Toxic to aquatic life
+402	Harmful to aquatic life
+410	Very toxic to aquatic life with long lasting effects
+411	Toxic to aquatic life with long lasting effects
+412	Harmful to aquatic life with long lasting effects
+413	May cause long lasting harmful effects to aquatic life
+420	Harms public health and the environment by destroying ozone in the upper atmosphere
+441	Very toxic to terrestrial invertebrates 

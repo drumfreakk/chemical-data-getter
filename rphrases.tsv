@@ -1,0 +1,79 @@
+301	IF SWALLOWED:
+301+310	IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician.
+301+312	IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell.
+301+330+331	IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+302	IF ON SKIN:
+302+334	IF ON SKIN: Immerse in cool water or wrap in wet bandages.
+302+350	IF ON SKIN: Gently wash with soap and water.
+302+352	IF ON SKIN: Wash with soap and water.
+303	IF ON SKIN (or hair):
+303+361+353	IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water [or shower].
+304	IF INHALED:
+304+312	IF INHALED: Call a POISON CENTER or doctor/physician if you feel unwell.
+304+340	IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing.
+304+341	IF INHALED: If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing.
+305	IF IN EYES:
+305+351+338	IF IN EYES: Rinse continuously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing.
+306	IF ON CLOTHING:
+306+360	IF ON CLOTHING: Rinse immediately contaminated clothing and skin with plenty of water before removing clothes.
+307	IF exposed:
+307+311	IF exposed: Call a POISON CENTER or doctor/physician.
+308	IF exposed or concerned:
+308+311	IF exposed or concerned: Call a POISON CENTER or doctor/physician.
+308+313	IF exposed or concerned: Get medical advice/attention.
+309	IF exposed or you feel unwell:
+309+311	IF exposed or you feel unwell: Call a POISON CENTER or doctor/physician.
+310	Immediately call a POISON CENTER or doctor/physician.
+311	Call a POISON CENTER or doctor/physician.
+312	Call a POISON CENTER or doctor/physician if you feel unwell.
+313	Get medical advice/attention.
+314	Get Medical advice/attention if you feel unwell.
+315	Get immediate medical advice/attention.
+320	Specific treatment is urgent (see ... on this label).
+321	Specific treatment (see ... on this label).
+322	Specific measures (see ... on this label).
+330	Rinse mouth.
+331	Do NOT induce vomiting.
+332	If skin irritation occurs:
+332+313	If skin irritation occurs: Get medical advice/attention.
+333	If skin irritation or a rash occurs:
+333+313	If skin irritation or a rash occurs: Get medical advice/attention.
+334	Immerse in cool water [or wrap in wet bandages].
+335	Brush off loose particles from skin.
+335+334	Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages.
+336	Thaw frosted parts with lukewarm water. Do not rub affected areas.
+337	If eye irritation persists:
+337+313	Get medical advice/attention.
+338	Remove contact lenses if present and easy to do. Continue rinsing.
+340	Remove victim to fresh air and keep at rest in a position comfortable for breathing.
+341	If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing.
+342	If experiencing respiratory symptoms:
+342+311	If experiencing respiratory symptoms: Call a POISON CENTER or doctor/physician.
+350	Gently wash with soap and water.
+351	Rinse cautiously with water for several minutes.
+352	Wash with plenty of water.
+353	Rinse skin with water [or shower].
+360	Rinse immediately contaminated clothing and skin with plenty of water before removing clothes.
+361	Remove/Take off immediately all contaminated clothing.
+361+364	Take off immediately all contaminated clothing and wash it before reuse.
+362	Take off contaminated clothing.
+362+364	Take off contaminated clothing and wash it before reuse.
+363	Wash contaminated clothing before reuse.
+364	And wash it before reuse.
+370	In case of fire:
+370+376	In case of fire: Stop leak if safe to do so.
+370+378	In case of fire: Use ... to extinguish.
+370+380	In case of fire: Evacuate area.
+370+380+375	In case of fire: Evacuate area. Fight fire remotely due to the risk of explosion.
+371	In case of major fire and large quantities:
+371+380+375	In case of major fire and large quantities: Evacuate area. Fight fire remotely due to the risk of explosion.
+372	Explosion risk.
+373	DO NOT fight fire when fire reaches explosives.
+374	Fight fire with normal precautions from a reasonable distance.
+375	Fight fire remotely due to the risk of explosion.
+376	Stop leak if safe to do so.
+377	Leaking gas fire – do not extinguish unless leak can be stopped safely.
+378	Use ... to extinguish.
+380	Evacuate area.
+381	In case of leakage, eliminate all ignition sources.
+391	Collect spillage.

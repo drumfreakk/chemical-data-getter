@@ -1,0 +1,61 @@
+201	Obtain special instructions before use.
+202	Do not handle until all safety precautions have been read and understood.
+210	Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.
+211	Do not spray on an open flame or other ignition source.
+220	Keep/Store away from clothing/.../combustible materials.
+221	Take any precaution to avoid mixing with combustibles.
+222	Do not allow contact with air.
+223	Do not allow contact with water.
+230	Keep wetted with ...
+231	Handle and store contents under inert gas/...
+231+232	Handle and store contents under inert gas. Protect from moisture
+232	Protect from moisture.
+233	Keep container tightly closed.
+234	Keep only in original container/packaging.
+235	Keep cool.
+235+410	Keep cool. Protect from sunlight.
+240	Ground and bond container and receiving equipment.
+241	Use explosion-proof electrical/ventilating/light/.../equipment.
+242	Use only non-sparking tools.
+243	Take action to prevent static discharges.
+244	Keep valves and fittings free from grease and oil
+250	Do not subject to grinding/shock/.../friction.
+251	Pressurized container – Do not pierce or burn, even after use.
+260	Do not breathe dust/fume/gas/mist/vapours/spray.
+261	Avoid breathing dust/fume/gas/mist/vapours/spray.
+262	Do not get in eyes, on skin, or on clothing.
+263	Avoid contact during pregnancy and while nursing.
+264	Wash ... thoroughly after handling.
+270	Do not eat, drink or smoke when using this product.
+271	Use only outdoors or in a well-ventilated area.
+272	Contaminated work clothing should not be allowed out of the workplace.
+273	Avoid release to the environment.
+280	Wear protective gloves/protective clothing/eye protection/face protection.
+281	Use personal protective equipment as required.
+282	Wear cold insulating gloves and either face shield or eye protection.
+283	Wear fire resistant or flame retardant clothing.
+284	Wear respiratory protection.
+285	In case of inadequate ventilation wear respiratory protection.
+	
+401	Store in accordance with ...
+402	Store in a dry place.
+402+404	Store in a dry place. Store in a closed container.
+403	Store in a well ventilated place.
+403+233	Store in a well ventilated place. Keep container tightly closed.
+403+235	Store in a well ventilated place. Keep cool.
+404	Store in a closed container.
+405	Store locked up.
+406	Store in a corrosive resistant/... container with a resistant inner liner.
+407	Maintain air gap between stacks or pallets.
+410	Protect from sunlight.
+410+403	Protect from sunlight. Store in a well ventilated place.
+410+412	Protect from sunlight. Do not expose to temperatures exceeding 50 ºC/122 ºF.
+411	Store at temperatures not exceeding ... ºC/... ºF.
+411+235	Store at temperatures not exceeding ... ºC/... ºF. Keep cool.
+412	Do not expose to temperatures exceeding 50 ºC/122 ºF.
+413	Store bulk masses greater than ... kg/... lbs at temperatures not exceeding ... °C/... °F.
+420	Store separately/away from other materials.
+422	Store contents under ...
+	
+501	Dispose of contents/container to ...
+502	Refer to manufacturer or supplier for information on recovery or recycling.

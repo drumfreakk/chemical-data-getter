@@ -31,7 +31,8 @@ def data_to_dict(data):
 		try:
 			out[els[0]] = els[1]
 		except IndexError:
-			print("Error parsing: ", el)
+			pass
+#			print("Error parsing: ", el)
 
 	return out
 
